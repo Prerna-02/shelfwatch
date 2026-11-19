@@ -1,0 +1,6 @@
+# Local development: the app's runtime packages plus what the tests and notebook helpers need.
+-r requirements.txt
+pandas
+matplotlib
+pillow
+pytest

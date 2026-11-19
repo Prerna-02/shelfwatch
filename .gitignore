@@ -1,0 +1,17 @@
+# Datasets and photos: large, licence-restricted, or private
+data/
+
+# Training outputs (only the exported .onnx goes in models/)
+runs/
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local secrets, if any are ever needed
+.streamlit/secrets.toml
+.env

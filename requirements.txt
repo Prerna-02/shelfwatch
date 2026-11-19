@@ -1,0 +1,6 @@
+# App runtime only. Training libraries live in the Colab notebooks.
+# Pin exact versions once the app runs locally.
+streamlit
+onnxruntime
+opencv-python-headless
+numpy
