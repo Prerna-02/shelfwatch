@@ -68,4 +68,4 @@ streamlit run app/streamlit_app.py
 
 ## Deploy
 
-Streamlit Community Cloud → New app → this repository → main file `app/streamlit_app.py`.
+Streamlit Community Cloud → Create app → this repository, branch `main`, main file `app/streamlit_app.py`, and under Advanced settings choose Python 3.11 (the version the tests run on). Every push to `main` updates the live app.
