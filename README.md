@@ -6,6 +6,8 @@ Upload one photo of a store shelf. ShelfWatch finds every product, highlights th
 empty gaps, shows how full each shelf row is, and gives a ranked restock list as a CSV.
 People in the photo are blurred, and no image is stored.
 
+**Live app:** https://shelfwatch.streamlit.app/
+
 Architecture diagrams: [docs/architecture.md](docs/architecture.md).
 
 ## Project structure
